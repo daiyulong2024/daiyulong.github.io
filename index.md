@@ -2,11 +2,11 @@
 
 
 
-<h2><center>daiyulong的小屋</center></h2>
+<h1><center>daiyulong的小屋</center></h1>
 
 <h5><center>DAIYULONG工作室</center></h5>
 
-![image-20240114114747056](C:\Users\戴雨龙\AppData\Roaming\Typora\typora-user-images\image-20240114114747056.png)
+![image-20240114114747056](https://daiyulong2024.github.io/daiyulong.github.io/picture/About%20us.png)
 
 
 
@@ -58,16 +58,12 @@ $$
 
 | 我的洛谷账号 |   我的洛谷团队   |   题解   |
 | :-: | :-: | :-: |
-| [daiyulong20120222](https://www.luogu.com.cn/user/998660) | [Team](https://daiyulong.wordpress.com/team/) | [【题解】CF1917B Erase First or Second Letter](https://daiyulong.wordpress.com/2024/01/11/【题解】cf1917b-erase-first-or-second-letter/) |
-|||[【题解】P5461 赦免战俘](https://daiyulong.wordpress.com/2024/01/06/【题解】p5461-赦免战俘/)|
-|||[【题解】P9749 CSP-J 2023 公路](https://daiyulong.wordpress.com/2024/01/11/【题解】p9749-csp-j-2023-公路/)|
-|||[【题解】P1571 眼红的Medusa](https://daiyulong.wordpress.com/2024/01/11/【题解】p1571-眼红的medusa/)|
-||||
+| [daiyulong20120222](https://www.luogu.com.cn/user/998660) | [Team](https://daiyulong.wordpress.com/team/) | [【题解】CF1917B Erase First or Second Letter](https://daiyulong.wordpress.com/2024/01/11/【题解】cf1917b-erase-first-or-second-letter/)[<br></br>【题解】P5461 赦免战俘](https://daiyulong.wordpress.com/2024/01/06/【题解】p5461-赦免战俘/)<br></br>[【题解】P9749 CSP-J 2023 公路](https://daiyulong.wordpress.com/2024/01/11/【题解】p9749-csp-j-2023-公路/)<br></br>[【题解】P1571 眼红的Medusa](https://daiyulong.wordpress.com/2024/01/11/【题解】p1571-眼红的medusa/) |
 
 | 题单 |   独家创作题目精选   |
 | :-: | :-: |
 |[一个动态更新的洛谷综合题单](https://daiyulong.wordpress.com/2024/01/05/一个动态更新的洛谷综合题单/)|无|
-|||
+
 
 
 
@@ -87,10 +83,7 @@ $$
 
 |笔记|公式|题解|
 |:-:|:-:|:-:|
-|无|[完全平方公式](https://daiyulong.wordpress.com/2024/01/11/完全平方公式/)|无|
-||[平方和公式](https://daiyulong.wordpress.com/2024/01/11/平方和公式/)||
-||[立方和公式](https://daiyulong.wordpress.com/2024/01/11/立方和公式/)||
-||||
+|无|[完全平方公式](https://daiyulong.wordpress.com/2024/01/11/完全平方公式/)<br></br>[平方和公式](https://daiyulong.wordpress.com/2024/01/11/平方和公式/)<br></br>[立方和公式](https://daiyulong.wordpress.com/2024/01/11/立方和公式/)|无|
 
 
 
@@ -111,8 +104,7 @@ $$
 
 |开源|函数|文章|
 |:-:|:-:|:-:|
-||||
-||||
+|无|无|无|
 
 
 $$
@@ -121,8 +113,7 @@ $$
 
 |开源|函数|文章|
 |:-:|:-:|:-:|
-||||
-||||
+|无|无|无|
 
 
 
